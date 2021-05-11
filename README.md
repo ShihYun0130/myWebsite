@@ -16,3 +16,5 @@ Step1. Clone this project. <br/>
 Step2. Install packages: `yarn install`. <br/>
 Step3. Run App: `yarn start`. <br/>
 Step4. App will run on `http://localhost:3000`. <br/>
+
+Since this repo is connected to Heroku, when there is new code pushed to master, automatic deployment would be triggered.

@@ -1,6 +1,7 @@
 import React from "react";
 import "./Introduction.css";
 import profilePic from "../assets/profile.png";
+import arrowDown from "../assets/arrow_down.svg";
 
 class Introduction extends React.Component {
   render() {
@@ -22,6 +23,9 @@ class Introduction extends React.Component {
               singing. I am pursuing to work for making the world better.
             </div>
           </div>
+        </div>
+        <div className="intro-arrowdown">
+          <img src={arrowDown} alt="" />
         </div>
       </div>
     );

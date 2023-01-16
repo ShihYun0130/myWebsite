@@ -94,7 +94,7 @@ class Experience extends React.Component {
               NTUIM Welcome Camp
             </div>
             <div className="exp-project exp-work" onClick={this.openProject}>
-              {" "}
+              {/* {" "} */}
               Center for Teaching and Learning Development
             </div>
           </div>

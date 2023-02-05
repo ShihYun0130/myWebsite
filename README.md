@@ -12,3 +12,4 @@ Step1. Clone this project. <br/>
 Step2. Install packages: `yarn install`. <br/>
 Step3. Run App: `yarn start`. <br/>
 Step4. App will run on `http://localhost:3000`. <br/>
+Note: Deploy website to Github page: `yarn deploy`.

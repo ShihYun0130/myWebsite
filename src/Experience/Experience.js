@@ -49,14 +49,14 @@ class Experience extends React.Component {
         <div className="exp-title">Experience</div>
         <div className="exp-body">
           <div className="exp-study">
-            <div className="exp-degree exp-master" onClick={this.openProject}>
+            <div className="exp-degree exp-bachelor" onClick={this.openProject}>
+              Exchange Student in Uppsala University
+            </div>
+            <div className="exp-degree exp-bachelor" onClick={this.openProject}>
               Master of Information Management
             </div>
             <div className="exp-degree exp-bachelor" onClick={this.openProject}>
               Bachelor of Information Management
-            </div>
-            <div className="exp-degree" onClick={this.openProject}>
-              Stella Matutina Girls’ High School
             </div>
           </div>
           <div className="exp-projects">

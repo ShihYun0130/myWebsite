@@ -16,11 +16,14 @@ class Skill extends React.Component {
               <div className="web-lang-element"> Vue </div>
               <div className="web-lang-element"> React </div>
               <div className="web-lang-element"> Node.js </div>
+              <div className="web-lang-element"> Docker </div>
+              <div className="web-lang-element"> Kubernetes </div>
+              <div className="web-lang-element"> CI/CD pipeline </div>
               <div className="web-lang-element"> TypeScript </div>
               <div className="web-lang-element"> Nuxt </div>
               <div className="web-lang-element"> Angular </div>
               <div className="web-lang-element"> Spring (Java) </div>
-              <div className="web-lang-element"> Laravel (PHP) </div>
+              {/* <div className="web-lang-element"> Laravel (PHP) </div> */}
             </div>
           </div>
           <div className="web-lang-container">
@@ -30,7 +33,7 @@ class Skill extends React.Component {
               <div className="web-lang-element"> Python </div>
               <div className="web-lang-element"> Go </div>
               <div className="web-lang-element"> Java </div>
-              <div className="web-lang-element"> R </div>
+              {/* <div className="web-lang-element"> R </div> */}
             </div>
           </div>
         </div>

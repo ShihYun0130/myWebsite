@@ -1,10 +1,10 @@
 const myExp = [
   {
     title: "LINE Taiwan",
-    content: "Sofware Development Intern",
+    content: "Sofware Development Intern, 2019-2022",
   },
   {
-    title: "LINE TechPulse Speaker",
+    title: "2020 LINE TechPulse Speaker",
     content: "",
   },
   {
@@ -52,17 +52,22 @@ const myExp = [
     content: "Nice to meet you :)",
   },
   {
+    title: "Exchange Student in Uppsala University",
+    content: "2022-2023",
+  },
+  {
     title: "Master of Information Management",
-    content: "2020-",
+    content:
+      "Diffusion Model Learning for Predicting Popularity of Marketing Videos on YouTube, 2020-2023, National Taiwan University",
   },
   {
     title: "Bachelor of Information Management",
-    content: "2016-2020",
+    content: "2016-2020, National Taiwan University",
   },
-  {
-    title: "Stella Matutina Girls’ High School",
-    content: "2010- 2016",
-  },
+  // {
+  //   title: "Stella Matutina Girls’ High School",
+  //   content: "2010- 2016",
+  // },
 ];
 
 export default myExp;

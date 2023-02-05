@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hej-hej/static/css/main.4d782d5b.chunk.css",
-    "main.js": "/hej-hej/static/js/main.42944568.chunk.js",
-    "main.js.map": "/hej-hej/static/js/main.42944568.chunk.js.map",
+    "main.js": "/hej-hej/static/js/main.2541183c.chunk.js",
+    "main.js.map": "/hej-hej/static/js/main.2541183c.chunk.js.map",
     "runtime-main.js": "/hej-hej/static/js/runtime-main.25b18f39.js",
     "runtime-main.js.map": "/hej-hej/static/js/runtime-main.25b18f39.js.map",
     "static/js/2.63bd2d68.chunk.js": "/hej-hej/static/js/2.63bd2d68.chunk.js",
     "static/js/2.63bd2d68.chunk.js.map": "/hej-hej/static/js/2.63bd2d68.chunk.js.map",
     "index.html": "/hej-hej/index.html",
-    "precache-manifest.64fec496014fd9cbbd47f89b0c8f3677.js": "/hej-hej/precache-manifest.64fec496014fd9cbbd47f89b0c8f3677.js",
+    "precache-manifest.368e33f47f76404215136495abf8bf1c.js": "/hej-hej/precache-manifest.368e33f47f76404215136495abf8bf1c.js",
     "service-worker.js": "/hej-hej/service-worker.js",
     "static/css/main.4d782d5b.chunk.css.map": "/hej-hej/static/css/main.4d782d5b.chunk.css.map",
     "static/js/2.63bd2d68.chunk.js.LICENSE.txt": "/hej-hej/static/js/2.63bd2d68.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.25b18f39.js",
     "static/js/2.63bd2d68.chunk.js",
     "static/css/main.4d782d5b.chunk.css",
-    "static/js/main.42944568.chunk.js"
+    "static/js/main.2541183c.chunk.js"
   ]
 }

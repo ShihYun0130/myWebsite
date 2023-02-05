@@ -67,13 +67,13 @@ class Experience extends React.Component {
               LINE TechPulse Speaker
             </div>
             <div className="exp-project" onClick={this.openProject}>
-              24th the International ICT Innovative Services Awards
+              2020 LINE FRESH Hackathon
             </div>
             <div className="exp-project exp-work" onClick={this.openProject}>
               Kaohsiung Harbor Smart Scheduling Information System
             </div>
             <div className="exp-project" onClick={this.openProject}>
-              Study in Creativity and Entrepreneurship program
+              24th the International ICT Innovative Services Awards
             </div>
             <div className="exp-project" onClick={this.openProject}>
               Academy Department in NTUIM Camp
@@ -93,7 +93,7 @@ class Experience extends React.Component {
             <div className="exp-project" onClick={this.openProject}>
               NTUIM Welcome Camp
             </div>
-            <div className="exp-project exp-work" onClick={this.openProject}>
+            <div className="exp-project" onClick={this.openProject}>
               {/* {" "} */}
               Center for Teaching and Learning Development
             </div>

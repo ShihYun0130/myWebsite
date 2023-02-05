@@ -16,8 +16,8 @@ const myExp = [
     content: "Project Manager, UI/UX Designer",
   },
   {
-    title: "Study in Creativity and Entrepreneurship program",
-    content: "As a student",
+    title: "2020 LINE FRESH Hackathon",
+    content: "Special award",
   },
   {
     title: "Academy Department in NTUIM Camp",
@@ -53,7 +53,7 @@ const myExp = [
   },
   {
     title: "Exchange Student in Uppsala University",
-    content: "2022-2023",
+    content: "2022 fall",
   },
   {
     title: "Master of Information Management",

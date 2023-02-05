@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/hej-hej/static/css/main.4d782d5b.chunk.css",
+    "main.js": "/hej-hej/static/js/main.42944568.chunk.js",
+    "main.js.map": "/hej-hej/static/js/main.42944568.chunk.js.map",
+    "runtime-main.js": "/hej-hej/static/js/runtime-main.25b18f39.js",
+    "runtime-main.js.map": "/hej-hej/static/js/runtime-main.25b18f39.js.map",
+    "static/js/2.63bd2d68.chunk.js": "/hej-hej/static/js/2.63bd2d68.chunk.js",
+    "static/js/2.63bd2d68.chunk.js.map": "/hej-hej/static/js/2.63bd2d68.chunk.js.map",
+    "index.html": "/hej-hej/index.html",
+    "precache-manifest.64fec496014fd9cbbd47f89b0c8f3677.js": "/hej-hej/precache-manifest.64fec496014fd9cbbd47f89b0c8f3677.js",
+    "service-worker.js": "/hej-hej/service-worker.js",
+    "static/css/main.4d782d5b.chunk.css.map": "/hej-hej/static/css/main.4d782d5b.chunk.css.map",
+    "static/js/2.63bd2d68.chunk.js.LICENSE.txt": "/hej-hej/static/js/2.63bd2d68.chunk.js.LICENSE.txt",
+    "static/media/annotation.png": "/hej-hej/static/media/annotation.4314f9be.png",
+    "static/media/arrow_down.svg": "/hej-hej/static/media/arrow_down.73321d95.svg",
+    "static/media/cancel.svg": "/hej-hej/static/media/cancel.a2df3cf3.svg",
+    "static/media/close.svg": "/hej-hej/static/media/close.e49e82b8.svg",
+    "static/media/contact.png": "/hej-hej/static/media/contact.edb2cc7f.png",
+    "static/media/github.png": "/hej-hej/static/media/github.96301546.png",
+    "static/media/harbor.png": "/hej-hej/static/media/harbor.c93ac6d3.png",
+    "static/media/instagram.png": "/hej-hej/static/media/instagram.5c570427.png",
+    "static/media/line.png": "/hej-hej/static/media/line.b55e3ce6.png",
+    "static/media/menu.svg": "/hej-hej/static/media/menu.5821473f.svg",
+    "static/media/music_chat.png": "/hej-hej/static/media/music_chat.7030b564.png",
+    "static/media/news.png": "/hej-hej/static/media/news.d4fe67d8.png",
+    "static/media/profile.png": "/hej-hej/static/media/profile.e7c56257.png",
+    "static/media/quote.png": "/hej-hej/static/media/quote.c29cc67f.png",
+    "static/media/Home.css": "/hej-hej/static/media/shih.d23999b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25b18f39.js",
+    "static/js/2.63bd2d68.chunk.js",
+    "static/css/main.4d782d5b.chunk.css",
+    "static/js/main.42944568.chunk.js"
+  ]
+}

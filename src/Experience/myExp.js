@@ -5,7 +5,7 @@ const myExp = [
   },
   {
     title: "2020 LINE TechPulse Speaker",
-    content: "",
+    content: "https://www.youtube.com/watch?v=th_8IVLOTxQ&t=1416s",
   },
   {
     title: "24th the International ICT Innovative Services Awards",

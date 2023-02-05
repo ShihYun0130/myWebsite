@@ -4,7 +4,7 @@ const myExp = [
     content: "Sofware Development Intern, 2019-2022",
   },
   {
-    title: "LINE TechPulse Speaker",
+    title: "2020 LINE TechPulse Speaker",
     content: "https://www.youtube.com/watch?v=th_8IVLOTxQ&t=1416s",
   },
   {

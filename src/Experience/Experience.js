@@ -64,7 +64,7 @@ class Experience extends React.Component {
               LINE Taiwan
             </div>
             <div className="exp-project" onClick={this.openProject}>
-              LINE TechPulse Speaker
+              2020 LINE TechPulse Speaker
             </div>
             <div className="exp-project" onClick={this.openProject}>
               2020 LINE FRESH Hackathon

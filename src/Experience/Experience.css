@@ -42,7 +42,7 @@
     width: 25%;
     height: 35%;
     padding: 50px 20px;
-    background-color: #A1B872;
+    /* background-color: #A1B872; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -53,7 +53,7 @@
     width: 25%;
     height: 35%;
     padding: 50px 20px;
-    background-color: #A1B872;
+    /* background-color: #A1B872; */
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -62,10 +62,10 @@
     box-shadow: 2px 2px 15px grey;
 }
 .exp-master {
-    background-color: #E8CAA4;
+    background-color: #C68662;
 }
 .exp-master:hover {
-    background-color: #E8CAA4;
+    background-color: #C68662;
     box-shadow: 2px 2px 15px grey;
 }
 .exp-projects {
@@ -84,7 +84,7 @@
     width: 22%;
     height: 60px;
     padding: 40px 5px;
-    background-color: #BED3D4;
+    background-color: #E5C66F;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -102,7 +102,7 @@
     width: 22%;
     height: 60px;
     padding: 40px 5px;
-    background-color: #BED3D4;
+    background-color: #E5C66F;
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
@@ -112,11 +112,11 @@
     cursor: pointer;
     box-shadow: 2px 2px 15px grey;
 }
-.exp-work {
-    background-color: #E5D67B;
+.exp-highlight {
+    background-color: #82BBB5;
 }
-.exp-work:hover {
-    background-color: #E5D67B;
+.exp-highlight:hover {
+    background-color: #82BBB5;
     box-shadow: 2px 2px 15px grey;
 }
 

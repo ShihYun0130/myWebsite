@@ -18,7 +18,7 @@ class Introduction extends React.Component {
               Shih Yun Chen <br /> (Carolyn)
             </div>
             <div className="intro-content">
-              I’m a software developer now, but interested to many other
+              I’m a software developer now, but also interested to many other
               different fields. I love reading, traveling, eating, as well as
               singing. I am pursuing to work for making the world better.
             </div>

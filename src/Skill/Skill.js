@@ -7,7 +7,7 @@ class Skill extends React.Component {
       <div id="Skills" className="skill-bg">
         <div className="skill-title">
           <div> Skills </div>
-          <div className="skill-subtitle"> Programming skills. </div>
+          <div className="skill-subtitle"> Programming skills </div>
         </div>
         <div className="skill-body">
           <div className="web-lang-container">

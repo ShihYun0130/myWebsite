@@ -49,27 +49,39 @@ class Experience extends React.Component {
         <div className="exp-title">Experience</div>
         <div className="exp-body">
           <div className="exp-study">
-            <div className="exp-degree exp-bachelor" onClick={this.openProject}>
+            <div className="exp-degree exp-master" onClick={this.openProject}>
               Exchange Student in Uppsala University
             </div>
-            <div className="exp-degree exp-bachelor" onClick={this.openProject}>
-              Master of Information Management
+            <div className="exp-degree exp-master" onClick={this.openProject}>
+              Master Degree of Information Management
             </div>
-            <div className="exp-degree exp-bachelor" onClick={this.openProject}>
-              Bachelor of Information Management
+            <div className="exp-degree exp-master" onClick={this.openProject}>
+              Bachelor Degree of Information Management
             </div>
           </div>
           <div className="exp-projects">
-            <div className="exp-project exp-work" onClick={this.openProject}>
+            <div
+              className="exp-project exp-highlight"
+              onClick={this.openProject}
+            >
               LINE Taiwan
             </div>
-            <div className="exp-project" onClick={this.openProject}>
+            <div
+              className="exp-project exp-highlight"
+              onClick={this.openProject}
+            >
               2020 LINE TechPulse Speaker
             </div>
-            <div className="exp-project" onClick={this.openProject}>
+            <div
+              className="exp-project exp-highlight"
+              onClick={this.openProject}
+            >
               2020 LINE FRESH Hackathon
             </div>
-            <div className="exp-project exp-work" onClick={this.openProject}>
+            <div
+              className="exp-project exp-highlight"
+              onClick={this.openProject}
+            >
               Kaohsiung Harbor Smart Scheduling Information System
             </div>
             <div className="exp-project" onClick={this.openProject}>

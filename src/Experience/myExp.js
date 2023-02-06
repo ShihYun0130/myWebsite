@@ -56,12 +56,12 @@ const myExp = [
     content: "2022 fall",
   },
   {
-    title: "Master of Information Management",
+    title: "Master Degree of Information Management",
     content:
       "Diffusion Model Learning for Predicting Popularity of Marketing Videos on YouTube, 2020-2023, National Taiwan University",
   },
   {
-    title: "Bachelor of Information Management",
+    title: "Bachelor Degree of Information Management",
     content: "2016-2020, National Taiwan University",
   },
   // {

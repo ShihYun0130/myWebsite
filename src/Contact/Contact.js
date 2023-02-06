@@ -14,7 +14,7 @@ class Contact extends React.Component {
         <div className="contact-title">
           <div> Contact </div>
           <div className="contact-subtitle">
-            Just let me know if you have any question.
+            Just let me know if you have any question
           </div>
         </div>
         <div className="contact-body">
@@ -42,7 +42,7 @@ class Contact extends React.Component {
           </div>
 
           <div className="contact-copyright">
-            © 2020 Shih Yun Chen. All rights reserved.
+            © 2023 Shih Yun Chen. All rights reserved.
           </div>
         </div>
         {/* </div> */}

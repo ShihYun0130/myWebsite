@@ -13,7 +13,8 @@
     align-items: center;
     font-size: 40px;
     font-family: 'Arapey', serif;
-    color: rgb(55, 55, 55);
+    /* color: rgb(55, 55, 55); */
+    color: #82BBB5;
     height: 25%;
 }
 .contact-subtitle {
@@ -24,7 +25,7 @@
 .contact-body {
     width: 100vw;
     height: 75%;
-    background-color: rgb(55, 55, 55);
+    background-color: #82BBB5;
     display: flex;
     flex-direction: column;
     justify-content: space-around;

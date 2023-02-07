@@ -55,7 +55,7 @@
   overflow: hidden;
   border-radius: 100%;
 }
-.intro-arrowdown > img {
+.intro-arrowdown {
   width: 30px;
 }
 

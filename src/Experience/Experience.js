@@ -84,14 +84,17 @@ class Experience extends React.Component {
             >
               Kaohsiung Harbor Smart Scheduling Information System
             </div>
-            <div className="exp-project" onClick={this.openProject}>
+            <div
+              className="exp-project exp-highlight"
+              onClick={this.openProject}
+            >
               24th the International ICT Innovative Services Awards
             </div>
             <div className="exp-project" onClick={this.openProject}>
-              Academy Department in NTUIM Camp
+              NTU System App Creativity Contest
             </div>
             <div className="exp-project" onClick={this.openProject}>
-              NTU System App Creativity Contest
+              Academy Department in NTUIM Camp
             </div>
             <div className="exp-project" onClick={this.openProject}>
               NTU Shan Fu

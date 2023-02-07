@@ -1,7 +1,8 @@
 import React from "react";
 import "./Introduction.css";
 import profilePic from "../assets/profile.png";
-import arrowDown from "../assets/arrow_down.svg";
+// import arrowDown from "../assets/arrow_down.svg";
+// import AnchorLink from "react-anchor-link-smooth-scroll";
 
 class Introduction extends React.Component {
   render() {
@@ -24,9 +25,11 @@ class Introduction extends React.Component {
             </div>
           </div>
         </div>
-        <div className="intro-arrowdown">
-          <img src={arrowDown} alt="" />
-        </div>
+        {/* <div className="intro-arrowdown">
+          <AnchorLink href="#Experience">
+            <img src={arrowDown} alt="" />
+          </AnchorLink>
+        </div> */}
       </div>
     );
   }

@@ -2,7 +2,7 @@
 
 #### Description
 This is my personal website, initial created in 2020 for practicing how to use React.js. <br/>
-Feel free to open the website by different devices.
+Feel free to open the website by different devices: https://shihyun0130.github.io/hej-hej/.
 
 ---
 #### Run it locally
